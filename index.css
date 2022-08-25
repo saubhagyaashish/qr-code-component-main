@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit');
+*{
+    margin: 0;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;    
+    background-color: hsl(212, 45%, 89%);
+    flex-direction: column;
+}
+h1{
+    font-family: Outfit;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 700;
+    
+}
+p{
+    font-family: Outfit;
+    font-size: 0.5rem;
+    text-align: center;
+    font-size: small;
+    font-weight: 400;
+    margin-top: 1rem;
+}
+.QRcodeCard{
+    background-color: hsl(0, 0%, 100%);
+    height:340px;
+    width: 200px;
+    overflow: hidden;
+    padding: 15px;
+    border-radius: 5%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+}
+.QRcodeCard-image{
+    max-width: 100%;
+    height: auto;
+    border-radius: 5%;
+    margin-bottom: 10px;
+}
+.footer{
+    margin-top: 1rem;
+    text-align: center;
+}
