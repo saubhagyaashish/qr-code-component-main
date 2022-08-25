@@ -20,8 +20,8 @@ Here is my solution for QR Code challange by frontend mentor.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click for Solution](https://github.com/saubhagyaashish/qr-code-component-main/)
+- Live Site URL: [Click to check it live](https://saubhagyaashish.github.io/qr-code-component-main/)
 
 
 ### Built with
